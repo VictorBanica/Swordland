@@ -1,0 +1,45 @@
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.deps.json
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.AssemblyInfo.cs
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\WAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.deps.json
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.AssemblyInfo.cs
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\SwordlandWAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.deps.json
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.AssemblyInfo.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\Project 3\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.deps.json
+C:\Users\Victor\Desktop\Project 3\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\Project 3\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\Project 3\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\Project 3\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Project 3\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Project 3\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Project 3\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\Project 3\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.deps.json
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland.ApplicationLogic\bin\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.AssemblyInfo.cs
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.dll
+C:\Users\Victor\Desktop\facultate\AN 3\SwordlandWAD\Swordland.ApplicationLogic\obj\Debug\netstandard2.0\Swordland.ApplicationLogic.pdb
