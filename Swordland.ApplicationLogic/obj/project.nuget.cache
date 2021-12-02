@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+0Zx/s/4JEYuPBHoWXJp9ZOZaCayKNqtJj2NPcCiPh0W3R1oecOy0ioPGMAwotPPy1KkBqUb3CTXW0xyrBfO2w==",
+  "dgSpecHash": "Ljw3ZfIdjQMN6JcTMa1o+uZChE8FrpZXrUYFtmI1B7QNnZ7iFBo2kUKYuh6uuuqzWy1HjxPncXIYS85G2H4u3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj",
+  "projectFilePath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Victor\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\Victor\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",

@@ -12671,11 +12671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland\\Swordland.csproj",
+      "projectUniqueName": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland\\Swordland.csproj",
       "projectName": "Swordland",
-      "projectPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland\\Swordland.csproj",
+      "projectPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland\\Swordland.csproj",
       "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland\\obj\\",
+      "outputPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12692,11 +12692,11 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj": {
-              "projectPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj"
+            "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj": {
+              "projectPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj"
             },
-            "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj": {
-              "projectPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj"
+            "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj": {
+              "projectPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj"
             }
           }
         }

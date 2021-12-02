@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m44SU/nVtVj49qoglKdOUWLpAFw/TbQco375Zwg/G7LuW2rGn2A8MqhcpRGjHtMwJ9/jaTJMnLoa2YPhTRmi3w==",
+  "dgSpecHash": "BiZ2ZKYeaWHkkEQFmmMVuORv8kCasNUSR8Q+sWt9pkPc/HzBFjwQfPHzWd5QFKXkcTIrpu2+k8rV1auELse+6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland\\Swordland.csproj",
+  "projectFilePath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland\\Swordland.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Victor\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Victor\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

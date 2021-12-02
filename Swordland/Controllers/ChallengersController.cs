@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Swordland.ApplicationLogic;
@@ -47,39 +48,48 @@ namespace Swordland.Controllers
             return View(viewModel);
         }
 
-        //[HttpGet]
-        //public ActionResult Bets()
-        //{
-        //    BetViewModel model = new BetViewModel();
+        [HttpGet]
+        [Authorize(Roles = "Client,Admin")]
+        public ActionResult Bets()
+        {
+            BetViewModel model = new BetViewModel();
 
-        //    return View(model);
+            return View(model);
 
-        //}
+        }
 
-        //[HttpPost]
-//        public ActionResult Bets(BetViewModel viewModel, int? id)
-//        {
-//            if (ModelState.IsValid)
-//            {
-//                if (id.HasValue)
-//                {
-//                    Challengers challengers = challengerRepository.GetChallenge(id.Value);
-//                    {
-//                        viewModel.ChallengerId = challengers.ChallengeId;
-//                    }
-//                }              
-//                    betRepository.Add(new BetViewModel()
-//                    {
-//                        BetId = viewModel.BetId,
-//                        Name = viewModel.Name,
-//                        Email = viewModel.Email,
-//                        CardNumber = viewModel.CardNumber,
-//                        Sum = viewModel.Sum,
-//                        ChallengerId = viewModel.ChallengerId
-//                    });
+        [HttpPost]
+        public ActionResult Bets(BetViewModel viewModel, int? id)
+        {
+            if (ModelState.IsValid)
+            {
+                if (id.HasValue)
+                {
+                    Challengers challengers = challengerRepository.GetChallenge(id.Value);
+                    {
+                        viewModel.ChallengerId = challengers.ChallengeId;
+                    }
+                }
+                betRepository.Add(new Bet()
+                {
+                    BetId = viewModel.BetId,
+                    Name = viewModel.Name,
+                    Email = viewModel.Email,
+                    CardNumber = viewModel.CardNumber,
+                    Sum = viewModel.Sum,
+                    ChallengerId = viewModel.ChallengerId
+                });
 
-//                return View(viewModel);
-//        }
+                ViewBag.message = "Bet placed successfully!";
 
+                return View(viewModel);
+
+            }
+
+            else
+            {
+                return View();
+            }
+        }
     }
 }

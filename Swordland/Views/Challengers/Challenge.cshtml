@@ -12,7 +12,7 @@
             <li>Check out each challenger's information</li>
             <li>Pick your favourite</li>
             <li>Support him by watching his live combat matches!</li>
-            <li>You can bet money on each challengers for a change to win big time!</li>
+            <li>You can bet money on each challengers for a chance to win big time!</li>
         </ol>
         <br />
     </p>
@@ -64,7 +64,7 @@
                         <h2 class="card-title">@item.StageName</h2>
                         @*<p class="card-title">@item.Alias</p>*@
                         <p class="card-title">@item.Description</p>
-                        @*@<a asp-route-id="@item.ChallengeId" asp-controller="Challenger" asp-action="Bets" class="button3">Place bet</a>*@
+                        <a asp-route-id="@item.ChallengeId" asp-controller="Challengers" asp-action="Bets" class="button3">Place bet</a>
 
                     </div>
                 </div>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland\\Swordland.csproj": {}
+    "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland\\Swordland.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj": {
+    "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj",
         "projectName": "Swordland.ApplicationLogic",
-        "projectPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj",
+        "projectPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.ApplicationLogic\\obj\\",
+        "outputPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.ApplicationLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj": {
+    "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj",
         "projectName": "Swordland.EFDataAccess",
-        "projectPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj",
+        "projectPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.EFDataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.EFDataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,8 +93,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj": {
-                "projectPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj"
+              "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj": {
+                "projectPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland\\Swordland.csproj": {
+    "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland\\Swordland.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland\\Swordland.csproj",
+        "projectUniqueName": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland\\Swordland.csproj",
         "projectName": "Swordland",
-        "projectPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland\\Swordland.csproj",
+        "projectPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland\\Swordland.csproj",
         "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland\\obj\\",
+        "outputPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -172,11 +172,11 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj": {
-                "projectPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj"
+              "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj": {
+                "projectPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.ApplicationLogic\\Swordland.ApplicationLogic.csproj"
               },
-              "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj": {
-                "projectPath": "C:\\Users\\Victor\\Desktop\\facultate\\AN 3\\SwordlandWAD\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj"
+              "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj": {
+                "projectPath": "C:\\Users\\Victor\\Desktop\\Metrics\\Swordland.EFDataAccess\\Swordland.EFDataAccess.csproj"
               }
             }
           }
